@@ -10,8 +10,8 @@ accounts = [];
 accCount = 0;
 
 #Fill this in with your info
-myAccount = "not_nang";
-myPassword = "oreo12345";
+myAccount = "nethulann";
+myPassword = "nethula@2009";
 
  #fill this out with a starting page
 accounts.append("redbir.d");
